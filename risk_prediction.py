@@ -23,7 +23,7 @@ filterwarnings('ignore')
 # In[2]:
 
 
-df=pd.read_csv(r"C:\Users\akash\Desktop\wise\all fuel\all_fuels_data.csv")
+df = pd.read_csv("all_fuels_data.csv")
 df.head()
 
 
@@ -1791,45 +1791,4 @@ print("Scaler saved as feature_scaler.pkl")
 # strongly recommended so each commodity's label distribution is centred at ~25%.
 # 
 
-# In[1]:
-
-
-get_ipython().system('git init')
-
-
-# In[2]:
-
-
-get_ipython().system('git add .')
-
-
-# In[3]:
-
-
-get_ipython().system('git commit -m "Initial commit"')
-
-
-# In[4]:
-
-
-get_ipython().system('git remote add origin https://github.com/akashns321-pixel/Commodity-Trading-Risk-Intelligence-Systems.git')
-
-
-
-# In[5]:
-
-
-get_ipython().system('git branch -M main')
-
-
-# In[6]:
-
-
-get_ipython().system('git push -u origin main')
-
-
-# In[ ]:
-
-
-
-
+# %%

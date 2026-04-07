@@ -1,10 +1,4 @@
-================================================================================
-  COMMODITY TRADING RISK PREDICTION — README
-  Project: Commodity Trading Risk Intelligence System
-  File:    Commodity_risk_prediction.py
-================================================================================
-
-
+# Commodity Trading Risk Intelligence System
 
 ## 📌 Overview
 
